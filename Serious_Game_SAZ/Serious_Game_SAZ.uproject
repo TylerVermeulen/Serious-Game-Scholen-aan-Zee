@@ -18,6 +18,10 @@
 		{
 			"Name": "Druids",
 			"Enabled": false
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
 		}
 	]
 }
